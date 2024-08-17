@@ -2,7 +2,7 @@
 
 This is a Netflix Clone built using HTML and CSS. The project mimics the basic user interface of Netflix, including the layout, design, and key UI elements.
 
-Project Overview
+Project Overview.
 
 This project is a front-end clone of Netflix, intended to replicate the look and feel of the popular streaming platform. It focuses on the following key features:
 
